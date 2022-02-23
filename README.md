@@ -1,4 +1,4 @@
-# Sentiment Analysis of Tweet Data Using
+# Sentiment Analysis of Tweet Data
 
 ## ABSTRACT
 
